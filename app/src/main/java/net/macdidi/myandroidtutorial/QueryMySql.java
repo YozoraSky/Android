@@ -29,7 +29,7 @@ import static net.macdidi.myandroidtutorial.ItemActivity.json;
 public class QueryMySql{
 
 
-    String url = "http://192.168.1.110/query.php";// 要加上"http://" 否則會連線失敗
+    String url = "http://192.168.1.111/query.php";// 要加上"http://" 否則會連線失敗
     //192.168.0.15 是我電腦的IP
     //140.121.199.158 研究室的IP
 
